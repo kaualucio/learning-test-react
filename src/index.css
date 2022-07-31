@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.count {
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  gap: 3rem
+}
+
+.buttons button {
+  padding: 1rem 2rem;
+}
